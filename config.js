@@ -1,46 +1,47 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  url: "https://frhumphries.com",
+  pathPrefix: "/",
+  title: "Priestly Peregrinations",
+  subtitle: "The Wonderings and Wanderings of a Parish Priest in the Rural US",
+  copyright: "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+  disqusShortname: "frhumphries",
+  postsPerPage: 5,
+  googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Articles",
+      path: "/"
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: "About me",
+      path: "/pages/about"
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: "Contact me",
+      path: "/pages/contacts"
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Fr. Ryan Humphries",
+    photo: "/photo.jpg",
+    bio:
+      "The Wonderings and Wanderings of a Parish Priest in the Rural US. Ordained 2005 for the Diocese of Alexandria in Louisiana.",
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: ''
+      email: "frhumphries@gmail.com",
+      facebook: "frhumphries",
+      twitter: "frhumphries",
+      instagram: "frryan",
+      github: "frhumphries",
+      rss: "http://www.frhumphries.com/rss.xml",
+      telegram: "",
+      vkontakte: "",
+      linkedin: "",
+      line: "",
+      gitlab: "",
+      weibo: ""
     }
   }
 };
