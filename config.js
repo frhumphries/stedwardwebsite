@@ -12,21 +12,17 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "Articles",
-      path: "/"
-    },
-    {
       label: "About me",
       path: "/pages/about"
     },
     {
-      label: "Contact me",
-      path: "/pages/contacts"
+      label: "Articles",
+      path: "/"
     }
   ],
   author: {
     name: "Fr. Ryan Humphries",
-    photo: "/photo.jpg",
+    photo: "/avatar.jpg",
     bio:
       "The Wonderings and Wanderings of a Parish Priest in the Rural US. Ordained 2005 for the Diocese of Alexandria in Louisiana.",
     contacts: {
