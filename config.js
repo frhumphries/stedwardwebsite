@@ -1,37 +1,36 @@
 "use strict";
 
 module.exports = {
-  url: "https://frhumphries.com",
+  url: "https://stedward.space",
   pathPrefix: "/",
-  title: "Priestly Peregrinations",
-  subtitle: "The Wonderings and Wanderings of a Parish Priest in the Rural US",
+  title: "St. Edward the Confessor Catholic Church",
+  subtitle: "204 E. Bayou Drive, Tallulah, Louisiana, 71282",
   copyright: "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-  disqusShortname: "frhumphries",
+  disqusShortname: "",
   postsPerPage: 5,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "",
   useKatex: false,
   menu: [
     {
-      label: "About me",
-      path: "/pages/about"
+      label: "Mass Times",
+      path: "/pages/masstimes"
     },
     {
-      label: "Articles",
+      label: "Parish Bulletin",
       path: "/"
     }
   ],
   author: {
-    name: "Fr. Ryan Humphries",
-    photo: "/avatar.jpg",
-    bio:
-      "The Wonderings and Wanderings of a Parish Priest in the Rural US. Ordained 2005 for the Diocese of Alexandria in Louisiana.",
+    name: "St. Edward the Confessor Catholic Church",
+    photo: "/avatar.png",
+    bio: "204 E. Bayou Drive, Tallulah, Louisiana, 71282",
     contacts: {
-      email: "frhumphries@gmail.com",
-      facebook: "frhumphries",
-      twitter: "frhumphries",
-      instagram: "frryan",
-      github: "frhumphries",
-      rss: "http://www.frhumphries.com/rss.xml",
+      email: "stedwardtallulah@gmail.com",
+      facebook: "stedwardtallulah",
+      twitter: "",
+      instagram: "",
+      github: "",
+      rss: "rss.xml",
       telegram: "",
       vkontakte: "",
       linkedin: "",
