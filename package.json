@@ -1,7 +1,7 @@
 {
   "version": "3.0.3",
-  "name": "frhumphries_blog",
-  "description": "Personal Blog",
+  "name": "stedwardchurch",
+  "description": "Church Personal Website",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/frhumphries/blog",
+  "repository": "https://github.com/stedwardchurch/blog",
   "author": "Fr Ryan Humphries",
   "license": "MIT",
   "keywords": [],
