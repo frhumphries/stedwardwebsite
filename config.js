@@ -16,6 +16,10 @@ module.exports = {
       path: "/pages/masstimes"
     },
     {
+      label: "Calendar of Events",
+      path: "https://bit.ly/stedwardcalendar"
+    },
+    {
       label: "Parish Bulletin",
       path: "/"
     }
