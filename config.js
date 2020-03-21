@@ -12,6 +12,10 @@ module.exports = {
   useKatex: false,
   menu: [
     {
+      label: "LIVE Streams",
+      path: "/pages/live"
+    },
+    {
       label: "Mass Times",
       path: "/pages/masstimes"
     },
