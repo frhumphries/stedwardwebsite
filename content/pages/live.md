@@ -6,15 +6,21 @@ socialImage: "/media/avatar.png"
 
 ## National & Statewide Quarantine
 
-Due to the State-wide quarantine, all celebrations of the Holy Mass are cancelled until further notice. St Edward will attempt to provide a live-stream of Mass every morning at 9:15am which will be shared on Fr. Ryan's Twitter feed ([twitter.com/frhumphries](http://www.twitter.com/frhumphries)) and on his Facebook page ([Facebook.com/frhumphries](http://www.facebook.com/frhumphries)).
+Due to the COVID quarantine, all public celebrations of the Holy Mass have been cancelled until further notice. Fr. Ryan is working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) which he co-founded about 10 years ago with Fr. Chris Decker of the Diocese of Baton Rouge. Two Holy Masses will be offered and livestreamed every morning - one in English (the "Ordinary Form") and one in the Traditional Latin ("Extraordinary") Form. Night prayer and the Stations of the Cross will be offered according to the schedule below.
 
-Fr. Ryan is working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) (which he co-founded about 10 years ago with Fr. Chris Decker of the Diocese of Baton Rouge), Mass will be offered and livestreamed every morning. Night prayer will be offered Mon-Fri evenings at 9pm). Both are also available on Fr. Decker's parish website ([triparishes.org/live](http://triparishes.org/live)).
+Further information from Archbishop Aymond regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
 
-As soon as new information becomes available, it will be available here and at the above sources.
+## Watch (and\or Rewatch)
 
-Information from Archbishop Aymond is available at [DioceseAlex.org](http://www.diocesealex.org).
+_Note that most videos begin with a still image, the video is playing. You can move the slider at the bottom of the video window or just wait a minute or two until the image fades out and the actual video begins to play. This is done in order to give folks who want to watch the live stream a few moments to orient themselves._
 
-<iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
+- on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
+- on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
+- on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
+- on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
+- on YouTube - [YouTube.com/CatholicUnderground](https://www.YouTube.com/CatholicUnderground)
+
+  <iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
 
 ## Schedule
 
@@ -47,11 +53,3 @@ Information from Archbishop Aymond is available at [DioceseAlex.org](http://www.
   - 9p Night Prayer - Fr. Chris
 - Saturday
   - 9:15a Holy Mass - Fr. Ryan
-
-## Watch
-
-- on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
-- on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
-- on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
-- on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
-- on YouTube - [YouTube.com/CatholicUnderground](https://www.YouTube.com/CatholicUnderground)
