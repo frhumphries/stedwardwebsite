@@ -26,28 +26,28 @@ _Note that most videos begin with a still image, the video is playing. You can m
 
 - Sunday
   - 8:15a Holy Mass (Traditional Latin) - Fr. Ryan
-  - 9:15a Holy Mass - Fr. Ryan
-  - 11a Holy Mass - Fr. Chris
+  - 9:15a Holy Mass (Simple) - Fr. Ryan
+  - 11a Holy Mass (Sung) - Fr. Chris
   - 7p CU Live
 - Monday
-  - 8:15a Holy Mass - Fr. Chris
+  - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 9p Night Prayer - Fr. Chris
 - Tuesday
-  - 8:15a Holy Mass - Fr. Chris
+  - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 9p Night Prayer - Fr. Chris
 - Wednesday
-  - 8:15a Holy Mass - Fr. Chris
+  - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 8p Stations of the Cross - Dc. Josh
   - 9p Night Prayer - Fr. Chris
 - Thursday
-  - 8:15a Holy Mass - Fr. Chris
+  - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 9p Night Prayer - Fr. Chris
 - Friday
-  - 8:15a Holy Mass - Fr. Chris
+  - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 8p Stations of the Cross - Dc. Josh
   - 9p Night Prayer - Fr. Chris
