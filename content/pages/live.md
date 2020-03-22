@@ -14,6 +14,8 @@ As soon as new information becomes available, it will be available here and at t
 
 Information from Archbishop Aymond is available at [DioceseAlex.org](http://www.diocesealex.org).
 
+<iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
+
 ## Schedule
 
 - Sunday
