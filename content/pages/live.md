@@ -22,6 +22,16 @@ _Note that most videos begin with a still image, the video is playing. You can m
 
   <iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
 
+> **An Act of Spiritual Communion**
+
+> _O Most amiable Savior! Who was the perpetual object and reigning desire of the ancient Patriarchs and Prophets, and of all the Saints of the Old Testament, who sighed incessantly for Your Incarnation, come into my soul, which burns with the desire of receiving You, and of being united to You, as the Author of my salvation, and the source of all good. Come and destroy within me the tyranny of sin and self-love, and establish there the reign of You grace and charity. In Your mercy grant me to partake of Your spirit, and of Your virtues, through the desire I have of receiving You in the Most Holy Sacrament._
+
+> _No, my Jesus, I cannot leave You, not live without You: You only can satisfy my heart and make me happy. O you Seraphim! Who ardently desire to be sacramentally united to Jesus Christ, yet cannot, I unite myself to the ardor and purity of your desires, to be united to the same God Whom with me you adore upon the altar. But, O Lord, come and purify my heart from all attachment to myself or to creatures, my heart which was made but to love and to possess You. You alone can satisfy it, and all that is not You is as nothing._
+
+> _O amiable God! O Loving God! can I know You and not love You, and love You and not burn with desire to receive You on Earth, and to see and to possess You forever in Heaven?_
+
+> _Amen_
+
 ## Schedule
 
 - Sunday
