@@ -12,6 +12,8 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 ## Watch (and\or Rewatch)
 
+_Mass for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
+
 _Note that most videos begin with a still image, the video is playing. You can move the slider at the bottom of the video window or just wait a minute or two until the image fades out and the actual video begins to play. This is done in order to give folks who want to watch the live stream a few moments to orient themselves._
 
 - on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
@@ -33,6 +35,8 @@ _Note that most videos begin with a still image, the video is playing. You can m
 > _Amen_
 
 ## Schedule
+
+_TLM for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
 
 - Sunday
   - 8:15a Holy Mass (Traditional Latin) - Fr. Ryan
