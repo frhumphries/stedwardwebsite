@@ -12,13 +12,11 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 ## Watch (and\or Rewatch)
 
-_Mass for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
-
 _Note that most videos begin with a still image, the video is playing. You can move the slider at the bottom of the video window or just wait a minute or two until the image fades out and the actual video begins to play. This is done in order to give folks who want to watch the live stream a few moments to orient themselves._
 
+- on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
 - on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
-- on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
 - on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
 - on YouTube - [YouTube.com/CatholicUnderground](https://www.YouTube.com/CatholicUnderground)
 
@@ -36,8 +34,6 @@ _Note that most videos begin with a still image, the video is playing. You can m
 
 ## Schedule
 
-_TLM for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
-
 - Sunday
   - 8:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 9:15a Holy Mass (Simple) - Fr. Ryan
@@ -50,6 +46,7 @@ _TLM for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
 - Tuesday
   - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
+  - 11a COVID-Catechism (~30m Catechetical Talk) - Fr. Ryan
   - 9p Night Prayer - Fr. Chris
 - Wednesday
   - 8:30a Holy Mass - Fr. Chris
@@ -59,6 +56,7 @@ _TLM for **Tue, Mar 31** is at **10:15a** followed by COVID-Catechism Talk #1_
 - Thursday
   - 8:30a Holy Mass - Fr. Chris
   - 9:15a Holy Mass (Traditional Latin) - Fr. Ryan
+  - 11a COVID-Catechism (~30m Catechetical Talk) - Fr. Ryan
   - 9p Night Prayer - Fr. Chris
 - Friday
   - 8:30a Holy Mass - Fr. Chris
