@@ -34,6 +34,120 @@ _Note that most videos begin with a still image, the video is playing. You can m
 
 ## Schedule
 
+### Holy Week
+
+- Sunday April 5 (Palm Sunday)
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass (English, Ordinary Form)
+  - 10:15a Blessed Palms available in the parking lot. _Please come as close to 10:15a as possible and remain in your vehicle._
+  - 11:00a _Fr Chris Decker's Mass from Livonia_
+- Monday April 6
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 10:15a Holy Mass (English, Ordinary Form)
+  - 12:00p DriveThru Confessions
+- Tuesday April 7
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 10:15a Holy Mass (English, Ordinary Form)
+  - 11:00a COVID-Catechism #3
+- Wednesday April 8
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 10:15a Holy Mass (English, Ordinary Form)
+
+#### Paschal Triduum
+
+- Thursday April 9 (Maundy Thursday)
+  - 9:15a Stations of the Cross with Morning Prayer
+  - 11:00a COVID-Catechism #4
+  - 5:30p Evening Mass of the Lord's Supper
+- Friday April 10 (Good Friday)
+  - 9:15a Stations of the Cross with Morning Prayer
+  - 12:00p DriveThru Confessions
+  - 5:30p Veneration of the Holy Cross
+- Saturday April 11 (Holy Saturday)
+  - 9:15a Morning Prayer
+  - 8:00p The Solemn Paschal Vigil - _Lent officially ends as the Paschal Vigil Begins_
+
+### Easter Octave
+
+- Sunday April 12 (Easter Sun)
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass (English, Ordinary Form)
+  - 11:00a _Fr Chris Decker's Mass from Livonia_
+- Monday April 13
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+- Tuesday April 14
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #5
+- Wednesday April 15
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+- Thursday April 16
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #6
+- Friday April 17
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday April 18
+  - 9:15a Holy Mass (English, Ordinary Form)
+
+### Easter Season
+
+- Sunday April 19 (Divine Mercy \ Low Sunday)
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass (English, Ordinary Form)
+  - 11:00a _Fr Chris Decker's Mass from Livonia_
+- Monday April 20
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+- Tuesday April 21
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #7
+- Wednesday April 22
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+- Thursday April 23
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #8
+- Friday April 24
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday April 25
+  - 9:15a Holy Mass (English, Ordinary Form)
+- Sunday April 26 (Good Shepherd Sunday)
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass (English, Ordinary Form)
+  - 11:00a _Fr Chris Decker's Mass from Livonia_
+- Monday April 27
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+- Tuesday April 28
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #9
+- Wednesday April 29
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+- Thursday April 30
+  - 8:30a _Fr Chris Decker's Mass from Livonia_
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechismechism #10
+
+<!--
 - Sunday
   - 8:15a Holy Mass (Traditional Latin) - Fr. Ryan
   - 9:15a Holy Mass (Simple) - Fr. Ryan
@@ -65,3 +179,5 @@ _Note that most videos begin with a still image, the video is playing. You can m
   - 9p Night Prayer - Fr. Chris
 - Saturday
   - 9:15a Holy Mass - Fr. Ryan
+
+ -->
