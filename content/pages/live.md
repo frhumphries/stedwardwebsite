@@ -18,7 +18,7 @@ _Note that most videos begin with a still image, the video is playing. You can m
 - on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
 - on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
-- on YouTube - [YouTube.com/CatholicUnderground](https://www.YouTube.com/CatholicUnderground)
+- on YouTube - [YouTube.com/FrHumphries](https://www.YouTube.com/FrHumphries)
 
   <iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
 
@@ -39,7 +39,7 @@ _Note that most videos begin with a still image, the video is playing. You can m
 - Sunday April 5 (Palm Sunday)
   - 8:15a Holy Mass (Traditional Latin Form)
   - 9:15a Holy Mass (English, Ordinary Form)
-  - 10:15a Blessed Palms available in the parking lot. _Please come as close to 10:15a as possible and remain in your vehicle._
+  - 10:15a Blessed Palms available in the parking lot.
   - 11:00a _Fr Chris Decker's Mass from Livonia_
 - Monday April 6
   - 8:30a _Fr Chris Decker's Mass from Livonia_
