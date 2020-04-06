@@ -49,12 +49,12 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 - Tuesday April 7
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form)
-  - 10:15a Holy Mass (English, Ordinary Form)
+  - 10:30a Holy Mass (English, Ordinary Form)
   - 11:00a COVID-Catechism #3
 - Wednesday April 8
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form)
-  - 10:15a Holy Mass (English, Ordinary Form)
+  - 10:30a Holy Mass (English, Ordinary Form)
 
 #### Paschal Triduum
 
