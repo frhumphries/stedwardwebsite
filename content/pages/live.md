@@ -20,9 +20,11 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 - on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
 - on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
 
-  <iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
+_or watch here_
 
-> **An Act of Spiritual Communion**
+<iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
+
+### An Act of Spiritual Communion
 
 > _O Most amiable Savior! Who was the perpetual object and reigning desire of the ancient Patriarchs and Prophets, and of all the Saints of the Old Testament, who sighed incessantly for Your Incarnation, come into my soul, which burns with the desire of receiving You, and of being united to You, as the Author of my salvation, and the source of all good. Come and destroy within me the tyranny of sin and self-love, and establish there the reign of You grace and charity. In Your mercy grant me to partake of Your spirit, and of Your virtues, through the desire I have of receiving You in the Most Holy Sacrament._
 
@@ -34,29 +36,7 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 
 ## Schedule
 
-### Holy Week
-
-- Sunday April 5 (Palm Sunday)
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass (English, Ordinary Form)
-  - 10:15a Blessed Palms available in the parking lot.
-  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-- Monday April 6
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 10:15a Holy Mass (English, Ordinary Form)
-  - 12:00p DriveThru Confessions
-- Tuesday April 7
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 10:30a Holy Mass (English, Ordinary Form)
-  - 11:00a COVID-Catechism #3
-- Wednesday April 8
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 10:30a Holy Mass (English, Ordinary Form)
-
-#### Paschal Triduum
+### Paschal Triduum
 
 - Thursday April 9 (Maundy Thursday)
   - 9:15a Stations of the Cross with Morning Prayer
