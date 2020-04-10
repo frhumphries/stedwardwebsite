@@ -38,10 +38,6 @@ _or watch here_
 
 ### Paschal Triduum
 
-- Thursday April 9 (Maundy Thursday)
-  - 9:15a Stations of the Cross with Morning Prayer
-  - 11:00a COVID-Catechism #4
-  - 5:30p Evening Mass of the Lord's Supper
 - Friday April 10 (Good Friday)
   - 9:15a Stations of the Cross with Morning Prayer
   - 12:00p DriveThru Confessions
