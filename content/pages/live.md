@@ -18,7 +18,6 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
 - on YouTube - [YouTube.com/FrHumphries](https://www.YouTube.com/FrHumphries)
 - on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
-- on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
 
 _or watch here_
 
