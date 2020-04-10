@@ -18,7 +18,7 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
 - on YouTube - [YouTube.com/FrHumphries](https://www.YouTube.com/FrHumphries)
 - on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
-- on Facebook - [Facebook.com/CatholicUnderground](https://www.Facebook.com/CatholicUnderground)
+- on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
 
 _or watch here_
 
@@ -39,8 +39,6 @@ _or watch here_
 ### Paschal Triduum
 
 - Friday April 10 (Good Friday)
-  - 9:15a Stations of the Cross with Morning Prayer
-  - 12:00p DriveThru Confessions
   - 5:30p Veneration of the Holy Cross
 - Saturday April 11 (Holy Saturday)
   - 9:15a Morning Prayer
