@@ -14,7 +14,7 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 _Note that most videos begin with a still image, but the video is playing. If you're watching live, Fr. Ryan will try to start the live feed about 5 minutes before the event is scheduled to begin. If you are watching an event recorded earlier, you can move the slider at the bottom of the video window or just wait a few minute until the image fades out and the actual video begins to play. This is done in order to give folks who want to watch the live stream a few moments to orient themselves._
 
-- on Facebook - [Facebook.com/FrHumphries](https://www.Facebook.com/FrHumphries)
+- on Facebook - [Facebook.com/FrRyanHumphries](https://www.Facebook.com/FrRyanHumphries)
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
 - on YouTube - [YouTube.com/FrHumphries](https://www.YouTube.com/FrHumphries)
 - on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
@@ -37,10 +37,7 @@ _or watch here_
 
 ### Paschal Triduum
 
-- Friday April 10 (Good Friday)
-  - 5:30p Veneration of the Holy Cross
 - Saturday April 11 (Holy Saturday)
-  - 9:15a Morning Prayer
   - 8:00p The Solemn Paschal Vigil - _Lent officially ends as the Paschal Vigil Begins_
 
 ### Easter Octave
