@@ -19,10 +19,6 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 - on YouTube - [YouTube.com/FrHumphries](https://www.YouTube.com/FrHumphries)
 - on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
 
-_or watch here_
-
-<iframe src="https://embed.restream.io/player/index.html?token=de49dd2ea1415f28f4c02f23dc0a010e" width="640" height="396" frameborder="0" allowfullscreen></iframe>
-
 ### An Act of Spiritual Communion
 
 > _O Most amiable Savior! Who was the perpetual object and reigning desire of the ancient Patriarchs and Prophets, and of all the Saints of the Old Testament, who sighed incessantly for Your Incarnation, come into my soul, which burns with the desire of receiving You, and of being united to You, as the Author of my salvation, and the source of all good. Come and destroy within me the tyranny of sin and self-love, and establish there the reign of You grace and charity. In Your mercy grant me to partake of Your spirit, and of Your virtues, through the desire I have of receiving You in the Most Holy Sacrament._
@@ -34,11 +30,6 @@ _or watch here_
 > _Amen_
 
 ## Schedule
-
-### Paschal Triduum
-
-- Saturday April 11 (Holy Saturday)
-  - 8:00p The Solemn Paschal Vigil - _Lent officially ends as the Paschal Vigil Begins_
 
 ### Easter Octave
 
