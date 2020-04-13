@@ -33,14 +33,6 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 
 ### Easter Octave
 
-- Sunday April 12 (Easter Sun)
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass (English, Ordinary Form)
-  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-- Monday April 13
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
 - Tuesday April 14
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form)
@@ -56,7 +48,7 @@ _Note that most videos begin with a still image, but the video is playing. If yo
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form)
   - 12:00p DriveThru Confessions
-  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+  - 2:00p Funeral Mass for Mr. Pat Bullard, RIP
 - Saturday April 18
   - 9:15a Holy Mass (English, Ordinary Form)
 
