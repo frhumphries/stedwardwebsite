@@ -6,7 +6,7 @@ socialImage: "/media/avatar.png"
 
 ## National & Statewide Quarantine
 
-Due to the COVID quarantine, all public celebrations of the Holy Mass have been cancelled until further notice. Fr. Ryan is working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) which he co-founded about 10 years ago with Fr. Chris Decker of the Diocese of Baton Rouge. Two Holy Masses will be offered and livestreamed every morning - one in English (the "Ordinary Form") and one in the Traditional Latin ("Extraordinary") Form. Night prayer and the Stations of the Cross will be offered according to the schedule below.
+Due to the COVID quarantine, all public celebrations of the Holy Mass have been cancelled until further notice. Fr. Ryan is working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) to provide broad opportunities to assist at Mass over the internet. Two Holy Masses will be offered and livestreamed every weekday morning - one in English (the "Ordinary Form") and one in the Traditional Latin ("Extraordinary") Form. Fr. Ryan will offer Holy Mass on Saturday Morning (in English) and twice on Sunday morning (one in English, one in Latin). Night prayer and a weekly Holy Hour will be offered according to the schedule below.
 
 Further information from Archbishop Aymond regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
 
@@ -30,29 +30,6 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 > _Amen_
 
 ## Schedule
-
-### Easter Octave
-
-- Tuesday April 14
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #5
-- Wednesday April 15
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-- Thursday April 16
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #6
-- Friday April 17
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-  - 2:00p Funeral Mass for Mr. Pat Bullard, RIP
-- Saturday April 18
-  - 9:15a Holy Mass (English, Ordinary Form)
-
-### Easter Season
 
 - Sunday April 19 (Divine Mercy \ Low Sunday)
   - 8:15a Holy Mass (Traditional Latin Form)
