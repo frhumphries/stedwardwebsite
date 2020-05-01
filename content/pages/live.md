@@ -1,14 +1,163 @@
 ---
-title: "Livestreaming"
+title: "Live-streaming"
 template: "page"
 socialImage: "/media/avatar.png"
 ---
 
 ## National & Statewide Quarantine
 
-Due to the COVID quarantine, all public celebrations of the Holy Mass have been cancelled until further notice. Fr. Ryan is working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) to provide broad opportunities to assist at Mass over the internet. Two Holy Masses will be offered and livestreamed every weekday morning - one in English (the "Ordinary Form") and one in the Traditional Latin ("Extraordinary") Form. Fr. Ryan will offer Holy Mass on Saturday Morning (in English) and twice on Sunday morning (one in English, one in Latin). Night prayer and a weekly Holy Hour will be offered according to the schedule below.
+Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrator of the Diocese allowed pastors to re-establish a public Mass schedule under specific safety conditions. This follows a general cancellation of all religious services several weeks before Easter of this year.
+
+**At this time, all Catholics in the Diocese of Alexandria are still not obligated to attend Sunday Mass on the order of the Archbishop. Our new Bishop, +Robert Marshall has confirmed this order and will lift the order at a date to be determined.**
+
+Beginning May 4th:
+
+- all Masses will be offered in the "Ordinary Form" (English, Modern form) except where otherwise indicated.
+- all daily Masses will be open to the public on a first-come-first-served basis. If you arrive and nine others are present, you won't be able to come in.
+- Sunday morning Masses will be available for live-stream only but Fr. Ryan will provide several brief Communion Services throughout Sunday Morning to allow for as many as would like to come and receive Holy Communion. Details as to how to sign up for attendance is forthcoming.
+- no more than ten people in total (including the priest) may attend any service or gathering.
+- Holy Communion is available only under the single species of the Sacred Host.
+- Fr. Ryan is available and happy to bring Holy Communion to you in your home.
+- all are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and recommended, but not required.
+
+Fr. Ryan has been working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) to provide broad opportunities to assist at Mass over the internet and he will continue to do so until such time as a full Mass schedule can be re-established.
 
 Further information from Archbishop Aymond regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
+
+## Schedule
+
+- Friday May 1
+  - 12:00p DriveThru Confessions
+- Saturday May 2
+  - 9:15a Holy Mass (English, Ordinary Form)
+
+--
+
+- Sunday May 3
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass
+- Monday May 4
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+- Tuesday May 5
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Wednesday May 6
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form) - Fr Ryan's Birthday
+- Thursday May 7
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Friday May 8
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday May 9
+  - 9:15a Holy Mass
+
+--
+
+- Sunday May 10
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass
+  - 10a, 10:30a, 11a Communion Services
+- Monday May 11
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+- Tuesday May 12
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Wednesday May 13
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form) - Our Lady of Fatima
+- Thursday May 14
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Friday May 15
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday May 16
+  - 9:15a Holy Mass
+
+--
+
+- Sunday May 17
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass
+  - 10a, 10:30a, 11a Communion Services
+- Monday May 18
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+- Tuesday May 19
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Wednesday May 20
+  - 9:15a Holy Mass
+- Thursday May 21
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form) - The Ascension of the Lord & Fr. Ryan's 15th Anniversary of Ordination
+  - 11:00a COVID-Catechism
+- Friday May 22
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday May 23
+  - 9:15a Holy Mass
+
+--
+
+- Sunday May 24
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass
+  - 10a, 10:30a, 11a Communion Services
+- Monday May 25
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+- Tuesday May 26
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Wednesday May 27
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+- Thursday May 28
+  - 9:15a Holy Mass
+  - 11:00a COVID-Catechism
+- Friday May 29
+  - 9:15a Holy Mass
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday May 30
+  - 9:15a Holy Mass
+
+<!--
+- Sunday
+  - 8:15a Holy Mass (Traditional Latin Form)
+  - 9:15a Holy Mass (English, Ordinary Form)
+  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+- Monday
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+- Tuesday
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechism
+- Wednesday
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+- Thursday
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 11:00a COVID-Catechism
+- Friday
+  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
+  - 9:15a Holy Mass (Traditional Latin Form)
+  - 12:00p DriveThru Confessions
+  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
+- Saturday
+  - 9:15a Holy Mass (English, Ordinary Form)
+ -->
 
 ## Watch (and\or Rewatch)
 
@@ -28,89 +177,3 @@ _Note that most videos begin with a still image, but the video is playing. If yo
 > _O amiable God! O Loving God! can I know You and not love You, and love You and not burn with desire to receive You on Earth, and to see and to possess You forever in Heaven?_
 
 > _Amen_
-
-## Schedule
-
-- Sunday April 26 (Good Shepherd Sunday)
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass (English, Ordinary Form)
-  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-- Monday April 27
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-- Tuesday April 28
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #9
-- Wednesday April 29
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-- Thursday April 30
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #10
-- Friday May 1
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
-- Saturday May 2
-
-  - 9:15a Holy Mass (English, Ordinary Form)
-
-- Sunday May 3
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass (English, Ordinary Form)
-  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-- Monday May 4
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-- Tuesday May 5
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #7
-- Wednesday May 6
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-- Thursday May 7
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #8
-- Friday May 8
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
-- Saturday May 9
-  - 9:15a Holy Mass (English, Ordinary Form)
-
-<!--
-- Sunday
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass (English, Ordinary Form)
-  - 11:00a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-- Monday
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-- Tuesday
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #7
-- Wednesday
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-- Thursday
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 11:00a COVID-Catechismechism #8
-- Friday
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form)
-  - 12:00p DriveThru Confessions
-  - 3:00p Holy Hour with the Chaplet of Divine Mercy, Rosary & Evening Prayer
-- Saturday
-  - 9:15a Holy Mass (English, Ordinary Form)
- -->
