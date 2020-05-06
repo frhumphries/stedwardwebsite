@@ -12,13 +12,13 @@ Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrato
 
 Beginning May 4th:
 
-- all Masses will be offered in the "Ordinary Form" (English, Modern form) except where otherwise indicated.
-- all daily Masses will be open to the public on a first-come-first-served basis. If you arrive and nine others are present, you won't be able to come in.
-- Sunday morning Masses will be available for live-stream only but Fr. Ryan will provide several brief Communion Services throughout Sunday Morning to allow for as many as would like to come and receive Holy Communion. Details as to how to sign up for attendance is forthcoming.
-- no more than ten people in total (including the priest) may attend any service or gathering.
+- All Masses will be offered in the "Ordinary Form" (English, Modern form) except where otherwise indicated.
+- No more than ten people in total (including the priest) may attend any service or gathering.
 - Holy Communion is available only under the single species of the Sacred Host.
+- All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and recommended, but not required.
+- All daily Masses will be open to the public on a first-come-first-served basis. If you arrive and nine others are present, you won't be able to come in.
+- Sunday morning Masses will be available for live-stream only until Louisiana enters Phase I of quarantine relief. At that time, the Saturday evening Mass will be restored and both Sunday Masses will be available to the public with "Social Distancing", etc. Until that time, Fr. Ryan will provide several brief Communion Services throughout Sunday Morning to allow for as many as would like to come and receive Holy Communion. Contant Anne Keene for reservations.
 - Fr. Ryan is available and happy to bring Holy Communion to you in your home.
-- all are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and recommended, but not required.
 
 Fr. Ryan has been working in cooperation with [CatholicUnderground.com](http://www.CatholicUnderground.com) to provide broad opportunities to assist at Mass over the internet and he will continue to do so until such time as a full Mass schedule can be re-established.
 
@@ -26,22 +26,6 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 ## Schedule
 
-- Friday May 1
-  - 12:00p DriveThru Confessions
-- Saturday May 2
-  - 9:15a Holy Mass (English, Ordinary Form)
-
---
-
-- Sunday May 3
-  - 8:15a Holy Mass (Traditional Latin Form)
-  - 9:15a Holy Mass
-- Monday May 4
-  - 9:15a Holy Mass
-  - 12:00p DriveThru Confessions
-- Tuesday May 5
-  - 9:15a Holy Mass
-  - 11:00a COVID-Catechism
 - Wednesday May 6
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form) - Fr Ryan's Birthday
@@ -85,7 +69,7 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 - Sunday May 17
   - 8:15a Holy Mass (Traditional Latin Form)
   - 9:15a Holy Mass
-  - 10a, 10:30a, 11a Communion Services
+  - _NB. Method of Holy Communion depends upon the status of quarantine and the decision of Gov. JBE._
 - Monday May 18
   - 9:15a Holy Mass
   - 12:00p DriveThru Confessions
@@ -110,7 +94,7 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 - Sunday May 24
   - 8:15a Holy Mass (Traditional Latin Form)
   - 9:15a Holy Mass
-  - 10a, 10:30a, 11a Communion Services
+  - _NB. Method of Holy Communion depends upon the status of quarantine and the decision of Gov. JBE._
 - Monday May 25
   - 9:15a Holy Mass
   - 12:00p DriveThru Confessions
