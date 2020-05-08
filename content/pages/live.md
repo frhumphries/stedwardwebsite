@@ -26,12 +26,6 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 ## Schedule
 
-- Wednesday May 6
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (at [Facebook](https://www.facebook.com/cdecker) or [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form) - Fr Ryan's Birthday
-- Thursday May 7
-  - 9:15a Holy Mass
-  - 11:00a COVID-Catechism
 - Friday May 8
   - 9:15a Holy Mass
   - 12:00p DriveThru Confessions
