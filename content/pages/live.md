@@ -1,5 +1,5 @@
 ---
-title: "Live-streaming"
+title: "Quarantine Schedule & Live-Streaming"
 template: "page"
 socialImage: "/media/avatar.png"
 ---
@@ -8,13 +8,21 @@ socialImage: "/media/avatar.png"
 
 Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrator of the Diocese allowed pastors to re-establish a public Mass schedule under specific safety conditions. This follows a general cancellation of all religious services several weeks before Easter of this year.
 
-**At this time, all Catholics in the Diocese of Alexandria are still not obligated to attend Sunday Mass on the order of the Archbishop. Our new Bishop, +Robert Marshall has confirmed this order and will lift the order at a date to be determined.**
+**At this time, all Catholics in the Diocese of Alexandria are still not obligated to attend Sunday Mass on the order of the Archbishop. Our new Bishop, +Robert Marshall, has confirmed this order and will lift the order at a date to be determined.**
 
-Beginning May 16th:
+At St. Edward, beginning May 16th:
 
 - No more than fifty people in total may attend any service or gathering.
-- All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and recommended, but not required.
+- All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and strongly recommended, but not required.
 - Holy Communion is available only under the single species of the Sacred Host.
+- Our weekly schedule will be gradually adjusted to resemble our usual pre-COVID schedule.
+  - Saturday and Sunday Masses will return to normal beginning May 16.
+  - Fr. Ryan will begin taking his day-off again on Mondays and so no public Mass will be scheduled.
+  - ALL Masses in May will be live-stream unless otherwise indicated, BUT after May, only Masses which are indicated will be live-streamed.
+  - Daily Masses will be offered at 9:00a, not 9:15a.
+  - When the Legacy Nursing Home (AKA The Olive Branch) reopens for Public Mass, the Thursday will take place there.
+  - NOTE: each week for the month or so will be different, so please take a close look at the schedule.
+  - THANK YOU for you patience with us and for your cooperation!
 
 Further information from Archbishop Aymond regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
 
@@ -22,13 +30,13 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 - Tuesday May 12
   - 9:15a Holy Mass
-  - 11:00a COVID-Catechism
+  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Wednesday May 13
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form) - Our Lady of Fatima
 - Thursday May 14
   - 9:15a Holy Mass
-  - 11:00a COVID-Catechism
+  - 11:00a COVID-Catechism (The Book of Revelation pt IV)
 - Friday May 15
   - 9:15a Holy Mass
   - 12:00p DriveThru Confessions
@@ -38,9 +46,9 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 --
 
 - Sunday May 17
-  - 9:00a Holy Mass _(Live-streamed)_
+  - 9:00a Holy Mass
 - Monday May 18
-  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter or the parish facebook page. See below for links to those pages._
+  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday May 19
   - 9:00a Holy Mass
   - 11:00a COVID-Catechism
@@ -55,14 +63,14 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
   - 5:30p Holy Mass
 - Saturday May 23
   - 5:00p Confessions (in the Confessional)
-  - 5:30p Holy Mass
+  - 5:30p Holy Mass _(NOT Live-streamed)_
 
 --
 
 - Sunday May 24
-  - 9:00a Holy Mass _(Live-streamed)_
+  - 9:00a Holy Mass
 - Monday May 25
-  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter or the parish facebook page. See below for links to those pages._
+  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday May 26
   - 9:00a Holy Mass
   - 11:00a COVID-Catechism
@@ -77,14 +85,16 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
   - 5:30p Holy Mass
 - Saturday May 30
   - 5:00p Confessions (in the Confessional)
-  - 5:30p Holy Mass
+  - 5:30p Holy Mass _(NOT Live-streamed)_
 
 --
+
+_NOTE: from the beggining of June, Masses will only be live-streamed as indicated_
 
 - Sunday May 31
   - 9:00a Holy Mass _(Live-streamed)_
 - Monday June 1
-  - _No public Mass is scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter @frhumphries or the parish facebook page @StEdwardTallulah. See below for links to those pages._
+  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday June 2
   - 9:00a Holy Mass
 - Wednesday June 3
@@ -93,7 +103,7 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 - Thursday June 4
   - 9:00a Holy Mass
 - Friday June 5
-  - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter @frhumphries or the parish facebook page @StEdwardTallulah. See below for links to those pages._
+  - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
   - 5:00p Confessions
   - 5:30p Holy Mass _(Live-streamed)_
 - Saturday June 6
