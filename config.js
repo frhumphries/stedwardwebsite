@@ -12,17 +12,17 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "LIVE Streams",
-      path: "/pages/live"
+      label: "QUARANTINE",
+      path: "/pages/live",
     },
     {
       label: "Mass Times",
-      path: "/pages/masstimes"
+      path: "/pages/masstimes",
     },
     {
       label: "Parish Bulletin",
-      path: "/"
-    }
+      path: "/",
+    },
   ],
   author: {
     name: "St. Edward the Confessor Catholic Church",
@@ -40,7 +40,7 @@ module.exports = {
       linkedin: "",
       line: "",
       gitlab: "",
-      weibo: ""
-    }
-  }
+      weibo: "",
+    },
+  },
 };

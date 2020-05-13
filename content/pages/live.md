@@ -75,8 +75,8 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
   - 9:00a Holy Mass
   - 11:00a COVID-Catechism
 - Wednesday May 27
+  - **NO MASS** from St. Edward - Fr. Ryan at Chrism Mass at the Cathedral in Alexandria.
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:00a Holy Mass (Traditional Latin Form)
 - Thursday May 28
   - 9:00a Holy Mass
   - 11:00a COVID-Catechism
