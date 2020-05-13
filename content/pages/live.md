@@ -8,7 +8,7 @@ socialImage: "/media/avatar.png"
 
 Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrator of the Diocese allowed pastors to re-establish a public Mass schedule under specific safety conditions. This follows a general cancellation of all religious services several weeks before Easter of this year.
 
-**At this time, all Catholics in the Diocese of Alexandria are still not obligated to attend Sunday Mass on the order of the Archbishop. Our new Bishop, +Robert Marshall, has confirmed this order and will lift the order at a date to be determined.**
+**At this time, all Catholics in the Dioceses of Alexandria and Shreveport are not obligated to attend Sunday Mass on the order of the Archbishop of New Orleans, Greg Aymond, Bishop Marshall of the Diocese of Alexandria and Bp. Malone of the Diocese of Shreveport. That order will be lifted by each Bishop in due course.**
 
 At St. Edward, beginning May 16th:
 
@@ -21,37 +21,36 @@ At St. Edward, beginning May 16th:
   - ALL Masses in May will be live-stream unless otherwise indicated, BUT after May, only Masses which are indicated will be live-streamed.
   - Daily Masses will be offered at 9:00a, not 9:15a.
   - When the Legacy Nursing Home (AKA The Olive Branch) reopens for Public Mass, the Thursday will take place there.
-  - NOTE: each week for the month or so will be different, so please take a close look at the schedule.
+  - NOTE: each week for the next month or so will be different, so please take a close look at the schedule.
   - THANK YOU for you patience with us and for your cooperation!
 
-Further information from Archbishop Aymond regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
+Further information from Archbishop Aymond and Bishop Marshall regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
 
 ## Schedule
 
-- Tuesday May 12
-  - 9:15a Holy Mass
-  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Wednesday May 13
   - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
   - 9:15a Holy Mass (Traditional Latin Form) - Our Lady of Fatima
+  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Thursday May 14
   - 9:15a Holy Mass
-  - 11:00a COVID-Catechism (The Book of Revelation pt IV)
 - Friday May 15
-  - 9:15a Holy Mass
-  - 12:00p DriveThru Confessions
+  - 9:15a Holy Mass (_in future, Friday Mass at 5:30p_)
+  - 12:00p DriveThru Confessions (_future confessions in the Church_)
 - Saturday May 16
+  - 9:15a Holy Mass (_in future, only First Saturday morning Mass_)
   - 5:30p Holy Mass
 
 --
 
 - Sunday May 17
   - 9:00a Holy Mass
+  - 11:15a Holy Mass @St Theresa, Delhi
 - Monday May 18
   - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday May 19
   - 9:00a Holy Mass
-  - 11:00a COVID-Catechism
+  - 11:00a COVID-Catechism (The Book of Revelation pt IV)
 - Wednesday May 20
   - 9:00a Holy Mass
 - Thursday May 21
@@ -69,6 +68,7 @@ Further information from Archbishop Aymond regarding the re-opening of Public Ma
 
 - Sunday May 24
   - 9:00a Holy Mass
+  - 11:15a Holy Mass @St Theresa, Delhi
 - Monday May 25
   - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday May 26
@@ -93,6 +93,7 @@ _NOTE: from the beggining of June, Masses will only be live-streamed as indicate
 
 - Sunday May 31
   - 9:00a Holy Mass _(Live-streamed)_
+  - 11:15a Holy Mass @St Theresa, Delhi
 - Monday June 1
   - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday June 2
