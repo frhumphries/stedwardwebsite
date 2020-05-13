@@ -28,12 +28,9 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 ## Schedule
 
-- Wednesday May 13
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:15a Holy Mass (Traditional Latin Form) - Our Lady of Fatima
-  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Thursday May 14
   - 9:15a Holy Mass
+  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Friday May 15
   - 9:15a Holy Mass (_in future, Friday Mass at 5:30p_)
   - 12:00p DriveThru Confessions (_future confessions in the Church_)
