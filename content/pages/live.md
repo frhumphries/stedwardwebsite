@@ -28,8 +28,6 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 ## Schedule
 
-- Friday May 15
-  - 12:00p DriveThru Confessions (_future confessions in the Church_)
 - Saturday May 16
   - 9:15a Holy Mass (_in future, only First Saturday will have a morning Mass_)
   - 5:30p Holy Mass _(NOT Live-streamed)_
@@ -96,34 +94,37 @@ _NOTE: from the beggining of June, Masses will only be live-streamed as indicate
   - The CU Catecast _(Formerly "COVID-Catechism", Live-streamed)_
 - Thursday June 4
   - 9:00a Holy Mass
-- Friday June 5
+- Friday June 5 _(First Friday)_
   - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
   - 5:00p Confessions
-  - 5:30p Holy Mass _(Live-streamed)_
-- Saturday June 6
+  - 5:30p Holy Mass & First Friday Devotions _(Live-streamed)_
+- Saturday June 6 _(First Saturday)_
+  - 8:30a Confessions
+  - 9:00a Holy Mass
   - 5:00p Confessions
   - 5:30p Holy Mass
 
-<!--
-- Sunday
+--
+
+- Sunday June 7
   - 9:00a Holy Mass _(Live-streamed)_
-- Monday
-  - _No public Mass is scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter @frhumphries or the parish facebook page @StEdwardTallulah. See below for links to those pages._
-- Tuesday
+  - 11:15a Holy Mass @St Theresa, Delhi
+- Monday June 8
+  - _No public Mass is scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
+- Tuesday June 9
   - 9:00a Holy Mass
-- Wednesday
+- Wednesday June 10
   - 9:00a Holy Mass _(Live-streamed)_
-  - The CU Catecast _(Formerly "COVID-Catechism", Live-streamed)_
-- Thursday
+  - The CU Catecast _(Live-streamed)_
+- Thursday June 11
   - 9:00a Holy Mass
-- Friday
-  - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter @frhumphries or the parish facebook page @StEdwardTallulah. See below for links to those pages._
+- Friday June 12
+  - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
   - 5:00p Confessions
   - 5:30p Holy Mass _(Live-streamed)_
-- Saturday
+- Saturday June 13
   - 5:00p Confessions
   - 5:30p Holy Mass
- -->
 
 ## Watch (and\or Rewatch)
 
