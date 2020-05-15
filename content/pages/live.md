@@ -16,11 +16,11 @@ At St. Edward, beginning May 16th:
 - All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and strongly recommended, but not required.
 - Holy Communion is available only under the single species of the Sacred Host.
 - Our weekly schedule will be gradually adjusted to resemble our usual pre-COVID schedule.
-  - Saturday and Sunday Masses will return to normal beginning May 16.
-  - Fr. Ryan will begin taking his day-off again on Mondays and so no public Mass will be scheduled.
+  - Saturday and Sunday Masses are presently back to normal (Sat 5:30p & Sun 9:00a).
+  - Daily Masses will be offered Tue, Wed, Thu at 9:00a, not 9:15a and Friday at 5:30p.
   - ALL Masses in May will be live-stream unless otherwise indicated, BUT after May, only Masses which are indicated will be live-streamed.
-  - Daily Masses will be offered at 9:00a, not 9:15a.
   - When the Legacy Nursing Home (AKA The Olive Branch) reopens for Public Mass, the Thursday will take place there.
+  - Fr. Ryan will begin taking his day-off again on Mondays and so no public Mass will be scheduled.
   - NOTE: each week for the next month or so will be different, so please take a close look at the schedule.
   - THANK YOU for you patience with us and for your cooperation!
 
@@ -28,15 +28,11 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 ## Schedule
 
-- Thursday May 14
-  - 9:15a Holy Mass
-  - 11:00a COVID-Catechism (The Book of Revelation pt III)
 - Friday May 15
-  - 9:15a Holy Mass (_in future, Friday Mass at 5:30p_)
   - 12:00p DriveThru Confessions (_future confessions in the Church_)
 - Saturday May 16
-  - 9:15a Holy Mass (_in future, only First Saturday morning Mass_)
-  - 5:30p Holy Mass
+  - 9:15a Holy Mass (_in future, only First Saturday will have a morning Mass_)
+  - 5:30p Holy Mass _(NOT Live-streamed)_
 
 --
 
