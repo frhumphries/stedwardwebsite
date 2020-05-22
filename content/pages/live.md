@@ -17,37 +17,15 @@ At St. Edward, beginning May 16th:
 - Holy Communion is available only under the single species of the Sacred Host.
 - Our weekly schedule will be gradually adjusted to resemble our usual pre-COVID schedule.
   - Saturday and Sunday Masses are presently back to normal (Sat 5:30p & Sun 9:00a).
-  - Daily Masses will be offered Tue, Wed, Thu at 9:00a, not 9:15a and Friday at 5:30p.
+  - Daily Masses will be offered Tue, Wed, Thu at 9:00a and Friday at 5:30p.
   - ALL Masses in May will be live-stream unless otherwise indicated, BUT after May, only Masses which are indicated will be live-streamed.
   - When the Legacy Nursing Home (AKA The Olive Branch) reopens for Public Mass, the Thursday will take place there.
-  - Fr. Ryan will begin taking his day-off again on Mondays and so no public Mass will be scheduled.
-  - NOTE: each week for the next month or so will be different, so please take a close look at the schedule.
   - THANK YOU for you patience with us and for your cooperation!
 
 Further information from Archbishop Aymond and Bishop Marshall regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
 
 ## Schedule
 
-- Saturday May 16
-  - 9:15a Holy Mass (_in future, only First Saturday will have a morning Mass_)
-  - 5:30p Holy Mass _(NOT Live-streamed)_
-
---
-
-- Sunday May 17
-  - 9:00a Holy Mass
-  - 11:15a Holy Mass @St Theresa, Delhi
-- Monday May 18
-  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
-- Tuesday May 19
-  - 9:00a Holy Mass
-  - 11:00a COVID-Catechism (The Book of Revelation pt IV)
-- Wednesday May 20
-  - 9:00a Holy Mass
-- Thursday May 21
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
-  - 9:00a Holy Mass (Traditional Latin Form) - The Ascension of the Lord & Fr. Ryan's 15th Anniversary of Ordination
-  - 11:00a COVID-Catechism
 - Friday May 22
   - 5:00p Confessions (in the Confessional)
   - 5:30p Holy Mass
@@ -86,7 +64,7 @@ _NOTE: from the beggining of June, Masses will only be live-streamed as indicate
   - 9:00a Holy Mass _(Live-streamed)_
   - 11:15a Holy Mass @St Theresa, Delhi
 - Monday June 1
-  - _In an effort to get back to a normal schedule, no public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
+  - _No public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
 - Tuesday June 2
   - 9:00a Holy Mass
 - Wednesday June 3
