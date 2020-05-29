@@ -26,25 +26,14 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 ## Schedule
 
-- Tuesday May 26
-  - 9:00a Holy Mass
-  - 11:00a COVID-Catechism
-- Wednesday May 27
-  - **NO MASS** from St. Edward - Fr. Ryan at Chrism Mass at the Cathedral in Alexandria.
-  - 8:30a _Fr Chris Decker's Mass from Livonia_ (on [Youtube](https://www.youtube.com/catholicunderground))
-- Thursday May 28
-  - 9:00a Holy Mass
-  - 11:00a COVID-Catechism
 - Friday May 29
   - 5:00p Confessions (in the Confessional)
-  - 5:30p Holy Mass
+  - 5:30p Holy Mass _(Live-streamed)_
 - Saturday May 30
   - 5:00p Confessions (in the Confessional)
   - 5:30p Holy Mass _(NOT Live-streamed)_
 
 --
-
-_NOTE: from the beggining of June, Masses will only be live-streamed as indicated_
 
 - Sunday May 31 _(Pentecost Sunday)_
   - 9:00a Holy Mass _(Live-streamed)_
