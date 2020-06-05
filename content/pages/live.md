@@ -12,7 +12,6 @@ Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrato
 
 At St. Edward,
 
-- No more than fifty people in total may attend any service or gathering.
 - All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and strongly recommended, but not required.
 - Holy Communion is available only under the single species of the Sacred Host.
 - Our weekly schedule will be gradually adjusted to resemble our usual pre-COVID schedule.
@@ -26,34 +25,9 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 ## Schedule
 
-- Friday May 29
-  - 5:00p Confessions (in the Confessional)
-  - 5:30p Holy Mass _(Live-streamed)_
-- Saturday May 30
-  - 5:00p Confessions (in the Confessional)
-  - 5:30p Holy Mass _(NOT Live-streamed)_
-
---
-
-- Sunday May 31 _(Pentecost Sunday)_
-  - 9:00a Holy Mass _(Live-streamed)_
-  - 11:15a Holy Mass @St Theresa, Delhi
-- Monday June 1
-  - _No public Mass will be scheduled on Mondays. Fr. Ryan usually offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
-- Tuesday June 2
-  - 9:00a Holy Mass
-- Wednesday June 3
-  - 9:00a Holy Mass _(Live-streamed)_
-  - 10:00a The CU Catecast _(Formerly "COVID-Catechism", Live-streamed)_
-- Thursday June 4
-  - 9:00a Holy Mass
-- Friday June 5 _(First Friday)_
-  - _Fr. Ryan sometimes offers a private Mass around 9am. If he decides to live-stream or invite public attendance, it will be posted on his own twitter profile [@FrHumphries](https://www.twitter.com/frhumphries) and the parish facebook page [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)._
-  - 5:00p Confessions
-  - 5:30p Holy Mass & First Friday Devotions _(Live-streamed)_
 - Saturday June 6 _(First Saturday)_
   - 8:30a Confessions
-  - 9:00a Holy Mass _(Live-streamed)_
+  - 9:00a Holy Mass
   - 5:00p Confessions
   - 5:30p Holy Mass
 
