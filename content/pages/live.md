@@ -1,46 +1,30 @@
 ---
-title: "Live-Streaming & COVID-19 Response"
+title: "Live-Streaming"
 template: "page"
 socialImage: "/media/avatar.png"
 ---
 
-## COVID-19 Response
+## Weekly Schedule
 
-Just before May 1, 2020, Archbishop Aymond, acting as the Apostolic Administrator of the Diocese allowed pastors to re-establish a public Mass schedule under specific safety conditions. This follows a general cancellation of all religious services several weeks before Easter of this year.
+*Our Parish Calendar is **[available here](https://bit.ly/stedwardcalendar)** to view or add to your phone*
 
-**At this time, all Catholics in the Dioceses of Alexandria and Shreveport are not obligated to attend Sunday Mass on the order of the Archbishop of New Orleans, Greg Aymond, Bishop Marshall of the Diocese of Alexandria and Bp. Malone of the Diocese of Shreveport. That order will be lifted by each Bishop in due course.**
-
-At St. Edward,
-
-- All are asked and expected to observe the precepts of "social distancing." Masks and gloves are welcome and strongly recommended, but not required.
-- Holy Communion is available only under the single species of the Sacred Host.
-- Our weekly schedule will be gradually adjusted to resemble our usual pre-COVID schedule.
-- Saturday and Sunday Masses are presently back to normal (Sat 5:30p & Sun 9:00a).
-- Daily Masses will be offered Tue, Wed, Thu at 9:00a and Friday at 5:30p.
-- Only Masses which are indicated will be live-streamed.
-- When the Legacy Nursing Home (AKA The Olive Branch) reopens for Public Mass, the Thursday Mass will take place there.
-- THANK YOU for your patience with us and for your cooperation!
-
-Further information from Archbishop Aymond and Bishop Marshall regarding the re-opening of Public Masses is available at [DioceseAlex.org](http://www.diocesealex.org).
-
-## Schedule
-
-- Sunday July 20
+- Sunday
   - 9:00a Holy Mass _(Live-streamed)_
   - 11:15a Holy Mass @St Theresa, Delhi
-- Monday July 21
+- Monday
   - _No public Mass is scheduled on Mondays._
-- Tuesday July 22
+- Tuesday
   - 9:00a Holy Mass
-- Wednesday July 23
+- Wednesday
   - 9:00a Holy Mass _(Live-streamed)_
-  - 10:00a The CU Catecast _(Live-streamed)_
-- Thursday July 24
+  - ~9:30a The CU Catecast _(Live-streamed)_
+- Thursday 
   - 9:00a Holy Mass
-- Friday July 25
+- Friday 
   - 5:00p Confessions
   - 5:30p Holy Mass _(Live-streamed)_
 - Saturday July 26
+  - 9:00a Traditional Latin Mass _(Live-streamed)_
   - 5:00p Confessions
   - 5:30p Holy Mass
 
@@ -48,7 +32,7 @@ Further information from Archbishop Aymond and Bishop Marshall regarding the re-
 
 _Note that most videos begin with a still image, but the video is playing. If you're watching live, Fr. Ryan will try to start the live feed about 5 minutes before the event is scheduled to begin. If you are watching an event recorded earlier, you can move the slider at the bottom of the video window or just wait a few minute until the image fades out and the actual video begins to play. This is done in order to give folks who want to watch the live stream a few moments to orient themselves._
 
-- on Facebook - [Facebook.com/FrRyanHumphries](https://www.Facebook.com/FrRyanHumphries)
+- on Facebook - [Facebook.com/StEdwardTallulah](https://www.Facebook.com/StEdwardTallulah)
 - on Twitter - [Twitter.com/FrHumphries](https://www.Twitter.com/FrHumphries)
 - on YouTube - [YouTube.com/CatholicUnderground](https://www.YouTube.com/CatholicUnderground)
 

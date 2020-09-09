@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "QUARANTINE",
+      label: "LiveStreaming",
       path: "/pages/live",
     },
     {
