@@ -6,7 +6,7 @@ socialImage: "/media/avatar.png"
 
 ## Weekly Schedule
 
-*Our Parish Calendar is **[available here](https://bit.ly/stedwardcalendar)** to view or add to your phone*
+*Our Parish Calendar is* **[available here](https://bit.ly/stedwardcalendar)** *to view or add to your phone*
 
 - Sunday
   - 9:00a Holy Mass _(Live-streamed)_
