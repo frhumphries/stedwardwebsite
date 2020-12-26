@@ -11,10 +11,11 @@ socialImage: "/media/avatar.png"
 
 ## Weekday
 
-- Tue 5:30p
-- Wed 5:30p
-- Thu 9:00a (At the LNC Nursing Home, Tallulah)
+- Tue 9:00a
+- Wed 9:00a
+- Thu 9:00a
 - Fri 5:30a
+- Sat 9:00a _Traditional Latin Mass_
 
 ## First Friday
 
@@ -22,11 +23,12 @@ socialImage: "/media/avatar.png"
 
 ## First Saturday
 
-- 8:30a followed by Benediction of the MBS
+- 9a followed by Benediction of the MBS
 
 ## Nearby Churches
 
 - St. Therese, **Delhi**, Louisiana - Sunday 11:15a
-- St. Joseph, **St. Joseph**, Louisiana - Sunday 10:00a
-  <!-- - St. Paul, **Vicksburg**, Mississippi -->
-  <!-- - St. Michael, **Vicksburg**, Mississippi -->
+
+<!-- - St. Joseph, **St. Joseph**, Louisiana - Sunday 10:00a -->
+<!-- - St. Paul, **Vicksburg**, Mississippi -->
+<!-- - St. Michael, **Vicksburg**, Mississippi -->
