@@ -15,7 +15,6 @@ socialImage: "/media/avatar.png"
 - Wed 9:00a
 - Thu 9:00a
 - Fri 5:30a
-- Sat 9:00a _Traditional Latin Mass_
 
 ## First Friday
 
@@ -28,7 +27,3 @@ socialImage: "/media/avatar.png"
 ## Nearby Churches
 
 - St. Therese, **Delhi**, Louisiana - Sunday 11:15a
-
-<!-- - St. Joseph, **St. Joseph**, Louisiana - Sunday 10:00a -->
-<!-- - St. Paul, **Vicksburg**, Mississippi -->
-<!-- - St. Michael, **Vicksburg**, Mississippi -->

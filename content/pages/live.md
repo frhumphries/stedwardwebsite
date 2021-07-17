@@ -6,7 +6,7 @@ socialImage: "/media/avatar.png"
 
 ## Weekly Schedule
 
-*Our Parish Calendar is* **[available here](https://bit.ly/stedwardcalendar)** *to view or add to your phone*
+_Our Parish Calendar is_ **[available here](https://bit.ly/stedwardcalendar)** _to view or add to your phone_
 
 - Sunday
   - 9:00a Holy Mass _(Live-streamed)_
@@ -18,13 +18,12 @@ socialImage: "/media/avatar.png"
 - Wednesday
   - 9:00a Holy Mass _(Live-streamed)_
   - ~9:30a The CU Catecast _(Live-streamed)_
-- Thursday 
+- Thursday
   - 9:00a Holy Mass
-- Friday 
+- Friday
   - 5:00p Confessions
   - 5:30p Holy Mass _(Live-streamed)_
 - Saturday July 26
-  - 9:00a Traditional Latin Mass _(Live-streamed)_
   - 5:00p Confessions
   - 5:30p Holy Mass
 
